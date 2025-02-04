@@ -59,6 +59,24 @@ footer a:hover{
     color: blue;
 }
 
+.boton-bonito {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #ff5733;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.boton-bonito:hover {
+    background-color: #ff3311;
+}
+
 /*
 #titulo{
     color: blue;
